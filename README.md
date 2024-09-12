@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name Camilo Jurado is and I'm a Software Engenieer Student, from Colombia</p>
+<p align="left">My name is Camilo Jurado and I'm a Software Engenieer Student, from Colombia</p>
 
 ###
 
